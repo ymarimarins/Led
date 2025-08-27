@@ -52,6 +52,14 @@ assim que todos os cabos forem conectados corretamente, e o cabo vermelho tocar 
 
 <img width="1111" height="1315" alt="img1" src="https://github.com/user-attachments/assets/0edf9227-b933-4683-887f-a040a2554517" />
 
+codigo Arduino
+
+<img width="1422" height="1193" alt="img12" src="https://github.com/user-attachments/assets/23bdc47d-1749-4fb1-8ba1-7b14421d1b26" />
+<img width="1204" height="1199" alt="img15" src="https://github.com/user-attachments/assets/69096035-97f8-4ea2-ab79-578d8acf1f0f" />
+<img width="1328" height="1175" alt="img14" src="https://github.com/user-attachments/assets/334bb748-0f24-4770-a779-90401f3de85f" />
+<img width="1280" height="1281" alt="img13" src="https://github.com/user-attachments/assets/825bc229-e0a5-4f4a-b24f-02e5267fdda8" />
+
+
 
 
 
