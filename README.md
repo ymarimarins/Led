@@ -15,13 +15,13 @@ pegue o micro servo  com os tres fios coloridos
 conecte o fio marrom na mesma ponta que esta conectado o outro fio marrom
 
 <img width="1396" height="1104" alt="img4" src="https://github.com/user-attachments/assets/0d83a265-7a40-4286-aba0-ed88c7f7e991" />
+<img width="1313" height="1277" alt="img5" src="https://github.com/user-attachments/assets/d3f55a7c-d19d-4e8d-b629-945db930b8b6" />
 
 
 4- passo 
 repita o processo com o fio vermelho deixando no meio e o amarelo na outra ponta
 
 <img width="1208" height="1120" alt="img6" src="https://github.com/user-attachments/assets/f2617bfa-c1c6-47fa-9042-85556ca1aeba" />
-<img width="1313" height="1277" alt="img5" src="https://github.com/user-attachments/assets/d3f55a7c-d19d-4e8d-b629-945db930b8b6" />
 <img width="1398" height="1190" alt="img7" src="https://github.com/user-attachments/assets/be1f79e9-c47b-4152-988e-00127c735931" />
 
 
