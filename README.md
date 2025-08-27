@@ -24,6 +24,18 @@ repita o processo com o fio vermelho deixando no meio e o amarelo na outra ponta
 ![image1](/img/img5.HEIC)
 ![image1](/img/img6.HEIC)
 
+5- passo
+
+encaixe a ponta do fio marrom que sobrou no buraco onde esta escrito 28, assim como na foto 
+
+![image1](/img/img7.HEIC)
+
+6- passo
+
+conecte o fio vermelho no pino onde está escrito VIN
+
+![image1](/img/img8.HEIC)
+
 
 
 
