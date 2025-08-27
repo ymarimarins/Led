@@ -5,7 +5,8 @@ SERVO MOTOR
 1- passo 
 pegue o protoboard e encaixe o aparelho ESP-32, deixando a parte com dois circulos para fora,como mostra a imagem
 
-![image1](/img/img1.HEIC)
+<img width="1111" height="1315" alt="img1" src="https://github.com/user-attachments/assets/0edf9227-b933-4683-887f-a040a2554517" />
+
 
 2- passo 
 pegue o micro servo  com os tres fios coloridos
