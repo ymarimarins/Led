@@ -10,8 +10,9 @@ pegue o protoboard e encaixe o aparelho ESP-32, deixando a parte com dois circul
 
 2- passo 
 pegue o micro servo  com os tres fios coloridos
+<img width="1405" height="843" alt="img2" src="https://github.com/user-attachments/assets/528ff005-0246-452d-9ee9-8da060768278" />
 
-![image1](/img/img2.HEIC)
+
 ![image1](/img/img3.HEIC)
 
 3- passo
